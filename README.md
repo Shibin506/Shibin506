@@ -16,7 +16,7 @@
 - **Database Systems** – MySQL, PostgreSQL, MongoDB, Neo4j
 - **ETL & Data Pipelines** – Apache Airflow, DBT, Logstash
 - **Cloud & Warehousing** – AWS Glue, Redshift, Snowflake, BigQuery
-- **Visualization** – Tableau, Kibana
+- **Visualization** – Power Bi,Tableau, Kibana
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
