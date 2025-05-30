@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Shibin Biji Thomas
 
-<!--
-**Shibin506/Shibin506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.S. Data Analytics student at SJSU  
+🔍 Passionate about Software Engineering, Data Engineering and Analytics  
+💻 Skilled in Java, Python, SQL, and Cloud Tools  
 
-Here are some ideas to get you started:
+## 💼 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Spotifyzer — Real-time music trend analytics using AWS Glue, Snowflake, Pandas & DBT  
+- Customer Data Warehouse — ETL pipeline using Logstash, DBT, Snowflake  
+- Twitter Trend Analysis — BigQuery, Apache Airflow, Slack & Kibana integration
+
+## 📚 What I'm Learning
+
+- **Python** – Pandas, NumPy, Matplotlib, Web Scraping
+- **Database Systems** – MySQL, PostgreSQL, MongoDB, Neo4j
+- **ETL & Data Pipelines** – Apache Airflow, DBT, Logstash
+- **Cloud & Warehousing** – AWS Glue, Redshift, Snowflake, BigQuery
+- **Visualization** – Tableau, Kibana
+
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
+![Snowflake](https://img.shields.io/badge/Snowflake-29BEB0?logo=snowflake)
+![DBT](https://img.shields.io/badge/DBT-orange?logo=dbt)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j)
+
+
+## 📈 GitHub Stats
+
+![Shibin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shibin506&show_icons=true&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Shibin506&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: shibinbiji2@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/shibinthomas](https://www.linkedin.com/in/shibinthomas)
+
+---
+
+> “Turning raw data into real insights with clean pipelines and curious thinking.”
+
