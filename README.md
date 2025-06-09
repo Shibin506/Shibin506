@@ -10,7 +10,7 @@
 - Customer Data Warehouse — ETL pipeline using Logstash, DBT, Snowflake  
 - Twitter Trend Analysis — BigQuery, Apache Airflow, Slack & Kibana integration
 
-## 📚 What I'm Learning
+## 📚 Skills
 
 - **Python** – Pandas, NumPy, Matplotlib, Web Scraping
 - **Database Systems** – MySQL, PostgreSQL, MongoDB, Neo4j
