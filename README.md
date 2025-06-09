@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shibin Biji Thomas
 
-🎓 M.S. Data Analytics student at SJSU  
+🎓MS in Applied Data Science, Data Intelligence · San José State University  
 🔍 Passionate about Software Engineering, Data Engineering and Analytics  
 💻 Skilled in Java, Python, SQL, and Cloud Tools  
 
