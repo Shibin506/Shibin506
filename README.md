@@ -10,36 +10,41 @@ I am eager to join a team that values innovation, collaboration, and diversity, 
 
 ## 🛠️ Skills
 
-### 💻 Languages & Frameworks  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)  
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)  
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)  
-![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apache-spark)
+### 🧩 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![PySpark](https://img.shields.io/badge/PySpark-E34F26?style=for-the-badge&logo=apache-spark&logoColor=white)
 
-### 🧰 Tools & Technologies  
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)  
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-05122A?style=flat&logo=amazondynamodb)  
-![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=snowflake)  
-![Redshift](https://img.shields.io/badge/-Redshift-05122A?style=flat&logo=amazon-redshift)  
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)  
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure)  
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)  
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+---
 
-### 📊 Data Analysis & Visualization  
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=python)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=python)  
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)  
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
+### 🧰 Tools & Technologies
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9DA?style=for-the-badge&logo=snowflake&logoColor=white)  
+![Redshift](https://img.shields.io/badge/AWS%20Redshift-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📊 Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 
 <p align="center">
