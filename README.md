@@ -1,22 +1,40 @@
-# 👋 Hi, I'm Shibin Biji Thomas
+👨‍💻 Hey there! I'm Shibin, a curious builder who loves playing with data, code, and cloud platforms.
 
-🎓MS in Applied Data Science, Data Intelligence · San José State University  
-🔍 Passionate about Software Engineering, Data Engineering and Analytics  
-💻 Skilled in Java, Python, SQL, and Cloud Tools  
+With 3+ years of experience in data engineering, I’m now deep-diving into Data Science at San Jose State University. I enjoy blending the powers of Snowflake, PySpark, and Python to create smart pipelines and real-time analytics .Passionate about leveraging data to inform strategic business decisions and solve intricate challenges through data-driven solutions. Proficient in a diverse set of skills including Python, C++, Java, SQL, Numpy, Pandas, Matplotlib, Scikit-Learn, Keras, TensorFlow, NLTK, PyTorch, and expertise in databases like MySQL, PostgreSQL. Currently pursuing a Master of Science in Applied Data Science at San Jose State University. Committed to continuous learning and growth in the dynamic field of Software Engineering, Machine Learning and Data Science.
+I am eager to join a team that values innovation, collaboration, and diversity, and where I can contribute to the development and improvement of data-driven products and services.
 
-## 💼 Current Projects
+Skills:
+Languages: Python, Java, C, C++, HTML, CSS 
+Database and Query Language: MySQL, Mongo DB, DynamoDB, AWS Athena, PostgreSQL , Snowflake, AWS 
+Redshift, AWS S3, Azure 
+Frameworks/Libraries: Matplotlib, NumPy, Pandas, PySpark, PyTorch, Seaborn 
+DevOps: AWS-CDK, Docker, Github Actions, Kubernetes 
+Others: Agile, Backend Development, Communication Skills, Power BI, Tableau, Problem Solving, Postman 
 
-- Spotifyzer — Real-time music trend analytics using AWS Glue, Snowflake, Pandas & DBT  
-- Customer Data Warehouse — ETL pipeline using Logstash, DBT, Snowflake  
-- Twitter Trend Analysis — BigQuery, Apache Airflow, Slack & Kibana integration
+### 🎙️ Distinguishing Human and AI-Generated Voices using PCA
+Analyzed and visualized the difference between human and AI-generated voices using PCA.
+- Extracted audio features from real and AI-generated voices.
+- Visualized clusters using PCA for distinguishability.
+- **Tools:** Python, Google Colab, MATLAB
 
-## 📚 Skills
+---
 
-- **Python** – Pandas, NumPy, Matplotlib, Web Scraping
-- **Database Systems** – MySQL, PostgreSQL, MongoDB, Neo4j
-- **ETL & Data Pipelines** – Apache Airflow, DBT, Logstash
-- **Cloud & Warehousing** – AWS Glue, Redshift, Snowflake, BigQuery
-- **Visualization** – Power Bi,Tableau, Kibana
+### 🎧 Spotify Data Analysis
+Performed trend and popularity analysis on Spotify’s Top 50 songs dataset.
+- Cleaned and preprocessed data for accuracy.
+- Trained ML models to predict song popularity.
+- Visualized insights using Matplotlib and Seaborn.
+- **Tools:** Python, Pandas, Seaborn, Matplotlib
+
+---
+
+### 🎬 Movie Catalog & Analytics System
+Built a hybrid SQL-NoSQL analytics system for movie metadata.
+- Integrated MySQL and MongoDB for relational and document-based querying.
+- Deployed on AWS with data denormalization for optimization.
+- **Tools:** MySQL, MongoDB, Python, AWS
+
+---
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
