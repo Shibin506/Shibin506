@@ -80,15 +80,6 @@ Built a hybrid SQL-NoSQL analytics system for movie metadata.
 
 ---
 
-## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
-![Snowflake](https://img.shields.io/badge/Snowflake-29BEB0?logo=snowflake)
-![DBT](https://img.shields.io/badge/DBT-orange?logo=dbt)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j)
 
 
 ## 📈 GitHub Stats
@@ -103,10 +94,6 @@ Built a hybrid SQL-NoSQL analytics system for movie metadata.
 
 ---
 
-## 📫 Contact
-
-- ✉️ Email: shibinbiji2@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/shibinthomas](https://www.linkedin.com/in/shibinthomas)
 
 ---
 
