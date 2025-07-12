@@ -55,11 +55,6 @@ I am eager to join a team that values innovation, collaboration, and diversity, 
 </p>
 
 
-### 🎙️ Distinguishing Human and AI-Generated Voices using PCA
-Analyzed and visualized the difference between human and AI-generated voices using PCA.
-- Extracted audio features from real and AI-generated voices.
-- Visualized clusters using PCA for distinguishability.
-- **Tools:** Python, Google Colab, MATLAB
 
 ---
 
@@ -71,12 +66,11 @@ Performed trend and popularity analysis on Spotify’s Top 50 songs dataset.
 - **Tools:** Python, Pandas, Seaborn, Matplotlib
 
 ---
-
-### 🎬 Movie Catalog & Analytics System
-Built a hybrid SQL-NoSQL analytics system for movie metadata.
-- Integrated MySQL and MongoDB for relational and document-based querying.
-- Deployed on AWS with data denormalization for optimization.
-- **Tools:** MySQL, MongoDB, Python, AWS
+  Sentiment Analysis on Yelp Reviews
+•	Developed a real-time sentiment analysis pipeline to classify Yelp review text as positive, negative, or neutral using TextBlob and VADER. 
+Ingested streaming review data using Apache NiFi and Python socket programming Processed and classified sentiment using PySpark, storing results in AWS S3 for further analysis and historical tracking.
+•	Built an interactive Streamlit dashboard to visualize sentiment trends .
+Technologies Used: Python, PySpark, TextBlob, VADER, Apache NiFi, AWS S3, Streamlit.
 
 ---
 
