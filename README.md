@@ -65,8 +65,8 @@ Performed trend and popularity analysis on Spotify’s Top 50 songs dataset.
 - Visualized insights using Matplotlib and Seaborn.
 - **Tools:** Python, Pandas, Seaborn, Matplotlib
 
----
-  Sentiment Analysis on Yelp Reviews
+-**--
+  Sentiment Analysis on Yelp Reviews**
 •	Developed a real-time sentiment analysis pipeline to classify Yelp review text as positive, negative, or neutral using TextBlob and VADER. 
 Ingested streaming review data using Apache NiFi and Python socket programming Processed and classified sentiment using PySpark, storing results in AWS S3 for further analysis and historical tracking.
 •	Built an interactive Streamlit dashboard to visualize sentiment trends .
