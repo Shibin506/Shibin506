@@ -83,14 +83,7 @@ Technologies Used: Python, PySpark, TextBlob, VADER, Apache NiFi, AWS S3, Stream
 
 ---
 
-## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Shibin506&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-
----
 
 > “Turning raw data into real insights with clean pipelines and curious thinking.”
 
