@@ -97,11 +97,6 @@ accuracy across 5K+ healthcare records.
 
 Technologies Used: HuggingFace, Faiss, LangChain, Mistral 7B, Streamlit, Python 
 
-## 📈 GitHub Stats
-
-![Shibin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shibin506&show_icons=true&theme=radical)
-
----
 
 
 
