@@ -73,9 +73,29 @@ Ingested streaming review data using Apache NiFi and Python socket programming P
 •	Built an interactive Streamlit dashboard to visualize sentiment trends .
 Technologies Used: Python, PySpark, TextBlob, VADER, Apache NiFi, AWS S3, Streamlit.
 
+
 ---
 
+**GlobalGuide AI Travel Planner    **   
+                                                                             
+• Developed an advanced AI application leveraging Groq LLM and LangGraph for comprehensive, personalized travel 
+itinerary generation, integrating real-time data from various APIs. 
+• Architected and implemented a robust agentic workflow using LangGraph enabling multi-step AI reasoning and 
+dynamic tool utilization across 9 distinct custom tools. Built a full-stack solution with a high-performance FastAPI 
+backend handling API requests in milliseconds 
 
+Technologies Used: Python, FastAPI, Streamlit, Groq LLM, LangGraph, Pydantic , Requests, OpenWeatherMap API, 
+Google Places API, ExchangeRate-API.
+
+**
+AI Medical Chatbot with RAG  **
+ 
+• Deployed a medical chatbot powered by RAG architecture to assist patients and healthcare providers by retrieving 
+and summarizing relevant medical documents in real time. 
+• Utilized HuggingFace Transformers for text embedding and Faiss for vector search, achieving 91% semantic retrieval 
+accuracy across 5K+ healthcare records. 
+
+Technologies Used: HuggingFace, Faiss, LangChain, Mistral 7B, Streamlit, Python 
 
 ## 📈 GitHub Stats
 
