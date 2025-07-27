@@ -57,24 +57,20 @@ I am eager to join a team that values innovation, collaboration, and diversity, 
 
 
 ---
+**Projects**
 
-### 🎧 Spotify Data Analysis
-Performed trend and popularity analysis on Spotify’s Top 50 songs dataset.
-- Cleaned and preprocessed data for accuracy.
-- Trained ML models to predict song popularity.
-- Visualized insights using Matplotlib and Seaborn.
-- **Tools:** Python, Pandas, Seaborn, Matplotlib
+**Spotify Data Analysis** 
 
--**--
-  Sentiment Analysis on Yelp Reviews**
-  
-•	Developed a real-time sentiment analysis pipeline to classify Yelp review text as positive, negative, or neutral using TextBlob and VADER. 
-Ingested streaming review data using Apache NiFi and Python socket programming Processed and classified sentiment using PySpark, storing results in AWS S3 for further analysis and historical tracking.
-•	Built an interactive Streamlit dashboard to visualize sentiment trends .
-**Technologies Used**: Python, PySpark, TextBlob, VADER, Apache NiFi, AWS S3, Streamlit.
+• Designed and developed a complete data warehousing solution to analyze Spotify streaming data and deliver actionable 
+insights for music trends. 
+• Utilized Spotify API and Python to extract and preprocess real-time track metadata including artist, genre, popularity. 
+• Modeled data using a star schema in Snowflake, improving query efficiency by 30% for genre/artist insights. 
+• Built over 20+ compelling visualizations using Matplotlib and Power BI, showcasing trends in genres, top artists, and 
+track popularity
+
+**Technologies Used**: AWS S3, Glue, Snowflake, Python, Matplotlib, Power BI, Spotify API.
 
 
----
 
 **GlobalGuide AI Travel Planner**    
                                                                              
@@ -88,6 +84,15 @@ backend handling API requests in milliseconds
 Google Places API, ExchangeRate-API.
 
 
+
+
+***Sentiment Analysis on Yelp Reviews***
+  
+•Developed a real-time sentiment analysis pipeline to classify Yelp review text as positive, negative, or neutral using TextBlob and VADER. 
+Ingested streaming review data using Apache NiFi and Python socket programming Processed and classified sentiment using PySpark, storing results in AWS S3 for further analysis and historical tracking.
+•Built an interactive Streamlit dashboard to visualize sentiment trends .
+**Technologies Used**: Python, PySpark, TextBlob, VADER, Apache NiFi, AWS S3, Streamlit.
+
 **AI Medical Chatbot with RAG**  
  
 • Deployed a medical chatbot powered by RAG architecture to assist patients and healthcare providers by retrieving 
@@ -96,6 +101,11 @@ and summarizing relevant medical documents in real time.
 accuracy across 5K+ healthcare records. 
 
 **Technologies Used**: HuggingFace, Faiss, LangChain, Mistral 7B, Streamlit, Python 
+
+
+
+---
+
 
 
 
