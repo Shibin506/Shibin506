@@ -85,6 +85,19 @@ I am eager to join a team that values innovation, collaboration, and diversity, 
 
 
 
+**BookTable — Cloud-Native Restaurant Booking System**
+
+* Built a **cloud-native, microservices-based booking system** with **Java (Spring Boot)**, **ReactJS**, and **MongoDB**, supporting search, reservations, real-time availability, and role-based access (**Customer, Manager, Admin**).
+* Developed secure **REST APIs** with **OAuth2, JWT**, and **RBAC**; added dashboards, notifications, and **Google Maps** integration. Automated deployments with **CI/CD** (GitHub Actions) on **AWS (EC2, ALB)**; **won 2nd Prize at SJ Hacks Hackathon**.
+* **Technologies Used**: Java (Spring Boot), React.js, MongoDB, REST APIs, OAuth2, JWT, RBAC, Google Maps API, AWS (EC2, ALB, Auto Scaling), GitHub Actions (CI/CD), Microservices architecture.
+
+ **Fleet Telemetry Playground**
+
+* Developed a **Go** producer that streams synthetic vehicle events to **Kafka**, with **Airflow** DAGs used to compact and index data into **PostgreSQL**.
+* Built a **React** UI that supports dynamic fleet queries (e.g., "100 cars ≥ 60 MPH, windows down, AC on") with a live tail via **WebSocket**.
+* Implemented a 5-minute **Redis** rolling cache and simple anomaly flags using **z-score**.
+* **Dockerized** all services and integrated **CI/CD** workflows using **GitHub Actions**.
+* **Technologies Used**: Go, Kafka, Airflow, React, PostgreSQL, Redis, Docker, GitHub Actions, WebSocket.
 
 
 **GlobalGuide AI Travel Planner**    
