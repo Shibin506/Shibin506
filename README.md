@@ -103,44 +103,29 @@ I am eager to join a team that values innovation, collaboration, and diversity, 
 * **Technologies Used**: Go, Kafka, Airflow, React, PostgreSQL, Redis, Docker, GitHub Actions, WebSocket.
 
 
-**GlobalGuide AI Travel Planner**    
-                                                                             
-• Developed an advanced AI application leveraging Groq LLM and LangGraph for comprehensive, personalized travel 
-itinerary generation, integrating real-time data from various APIs. 
-• Architected and implemented a robust agentic workflow using LangGraph enabling multi-step AI reasoning and 
-dynamic tool utilization across 9 distinct custom tools. Built a full-stack solution with a high-performance FastAPI 
-backend handling API requests in milliseconds 
+### **AI Medical Chatbot with RAG**
+* Deployed a medical chatbot powered by a Retrieval-Augmented Generation (RAG) architecture.
+* Assisted patients and healthcare providers by retrieving and summarizing relevant medical documents in real time.
+* Utilized HuggingFace Transformers for text embedding and Faiss for efficient vector search.
+* Achieved 91% semantic retrieval accuracy across a dataset of over 5K+ healthcare records.
+* **Technologies Used**: HuggingFace, Faiss, LangChain, Mistral 7B, Streamlit, Python.
 
-**Technologies Used**: Python, FastAPI, Streamlit, Groq LLM, LangGraph, Pydantic , Requests, OpenWeatherMap API, 
-Google Places API, ExchangeRate-API.
-
-**AI Medical Chatbot with RAG**  
- 
-• Deployed a medical chatbot powered by RAG architecture to assist patients and healthcare providers by retrieving 
-and summarizing relevant medical documents in real time. 
-• Utilized HuggingFace Transformers for text embedding and Faiss for vector search, achieving 91% semantic retrieval 
-accuracy across 5K+ healthcare records. 
-
-**Technologies Used**: HuggingFace, Faiss, LangChain, Mistral 7B, Streamlit, Python 
-
-
-**Spotify Data Analysis** 
-
-• Designed and developed a complete data warehousing solution to analyze Spotify streaming data and deliver actionable 
-insights for music trends. 
-• Utilized Spotify API and Python to extract and preprocess real-time track metadata including artist, genre, popularity. 
-• Modeled data using a star schema in Snowflake, improving query efficiency by 30% for genre/artist insights. 
-• Built over 20+ compelling visualizations using Matplotlib and Power BI, showcasing trends in genres, top artists, and 
-track popularity
+### **Spotify Data Analysis**
+* Designed and developed a complete data warehousing solution to analyze Spotify streaming data and deliver insights for music trends.
+* Utilized the Spotify API and Python to extract and preprocess real-time track metadata including artist, genre, and popularity.
+* Modeled data using a star schema in Snowflake, which improved query efficiency by 30% for genre and artist insights.
+* Built over 20+ compelling visualizations using Matplotlib and Power BI to showcase trends in genres, top artists, and track popularity.
+* **Technologies Used**: AWS S3, Glue, Snowflake, Python, Matplotlib, Power BI, Spotify API.
 
 **Technologies Used**: AWS S3, Glue, Snowflake, Python, Matplotlib, Power BI, Spotify API.
 
-***Sentiment Analysis on Yelp Reviews***
-  
-•Developed a real-time sentiment analysis pipeline to classify Yelp review text as positive, negative, or neutral using TextBlob and VADER. 
-Ingested streaming review data using Apache NiFi and Python socket programming Processed and classified sentiment using PySpark, storing results in AWS S3 for further analysis and historical tracking.
-•Built an interactive Streamlit dashboard to visualize sentiment trends .
-**Technologies Used**: Python, PySpark, TextBlob, VADER, Apache NiFi, AWS S3, Streamlit.
+### **Sentiment Analysis on Yelp Reviews**
+* Developed a real-time sentiment analysis pipeline to classify Yelp review text as positive, negative, or neutral.
+* Utilized TextBlob and VADER for sentiment classification.
+* Ingested streaming review data using Apache NiFi and Python socket programming.
+* Processed and classified sentiment using PySpark and stored results in AWS S3 for historical tracking and further analysis.
+* Built an interactive Streamlit dashboard to visualize sentiment trends over time.
+* **Technologies Used**: Python, PySpark, TextBlob, VADER, Apache NiFi, AWS S3, Streamlit.
 
 
 
