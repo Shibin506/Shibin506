@@ -6,7 +6,10 @@
 👨‍💻 Hey there! I'm Shibin, a curious builder who loves playing with data, code, and cloud platforms.
 
 Detail-oriented software engineer pursuing MS in Applied Data Intelligence at San Jose State University, with a strong focus on
-backend development, distributed systems, and cloud-native architectures. Experienced in designing and optimizing scalable, high concurrency microservices and event-driven workflows, with an emphasis on system reliability and performance. I design and build scalable microservices and event-driven workflows with an eye on reliability, latency, and throughput. Comfortable across Python, Java, and C++, plus FastAPI/Flask and Node.js. Hands-on with cloud-native patterns and CI/CD, and I like turning performance bottlenecks into measurable wins.
+Full Stack development, distributed systems, and cloud-native architectures. 
+Experienced in designing and optimizing scalable, high concurrency microservices and event-driven workflows, with an emphasis on system reliability and performance. 
+I design and build scalable microservices and event-driven workflows with an eye on reliability, latency, and throughput.
+Comfortable across Python, Java, and C++, plus FastAPI/Flask and Node.js. Hands-on with cloud-native patterns and CI/CD, and I like turning performance bottlenecks into measurable wins.
 I am eager to join a team that values innovation, collaboration, and diversity, and where I can contribute to the development and improvement of data-driven products and services.
 
 ## 🛠️ Skills
