@@ -1,6 +1,6 @@
 <h1 align="center">Shibin Biji Thomas</h1>
 
-<p align="center"><b>Software Engineer · AI-Native Backend & Distributed Systems</b></p>
+<p align="center"><b>Software Engineer · AI/ML & Machine Learning · Distributed Systems</b></p>
 
 <p align="center">
 I build AI-native cloud software — LLM-integrated workflows, event-driven microservices, and the data pipelines and CI/CD gates that keep them reliable in production.
