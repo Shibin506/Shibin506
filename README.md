@@ -1,143 +1,126 @@
-<h1 align="center">Hi there, I'm Shibin Biji Thomas 👋</h1>
+<h1 align="center">Shibin Biji Thomas</h1>
 
-
-## 🚀 About Me
-
-👨‍💻 Hey there! I'm Shibin, a curious builder who loves playing with data, code, and cloud platforms.
-
-Detail-oriented software engineer pursuing MS in Applied Data Intelligence at San Jose State University, with a strong focus on
-Full Stack development, distributed systems, and cloud-native architectures. 
-Experienced in designing and optimizing scalable, high concurrency microservices and event-driven workflows, with an emphasis on system reliability and performance. 
-I design and build scalable microservices and event-driven workflows with an eye on reliability, latency, and throughput.
-Comfortable across Python, Java, and C++, plus FastAPI/Flask and Node.js. Hands-on with cloud-native patterns and CI/CD, and I like turning performance bottlenecks into measurable wins.
-I am eager to join a team that values innovation, collaboration, and diversity, and where I can contribute to the development and improvement of data-driven products and services.
-
-## 🛠️ Skills
-
-### 🛠️ Technical Skills
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Linux/Unix](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-
-**Frameworks & Libraries**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**AI / ML**  
-![LLM](https://img.shields.io/badge/LLM%20Integration-FF6F00?style=for-the-badge)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-FF6F00?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
-
-**Development & Testing**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
-![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-0052CC?style=for-the-badge)
-
-
-
-
-
-
-
+<p align="center"><b>Software Engineer · AI-Native Backend & Distributed Systems</b></p>
 
 <p align="center">
-  <a href="mailto:shibinbiji10@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shibin-biji-593228183"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+I build AI-native cloud software — LLM-integrated workflows, event-driven microservices, and the data pipelines and CI/CD gates that keep them reliable in production.
 </p>
 
+<p align="center">
+Software Engineer Intern @ <b>LinkedIn</b> &nbsp;·&nbsp; ex-Software Engineer @ <b>Accenture</b> (3+ yrs) &nbsp;·&nbsp; M.S. Applied Data Intelligence @ <b>San José State University</b> ('27) &nbsp;·&nbsp; San Francisco Bay Area, CA
+</p>
 
-
----
-**Projects**
-
-
-
-**BookTable — Cloud-Native Restaurant Booking System**
-
-* Built a **cloud-native, microservices-based booking system** with **Java (Spring Boot)**, **ReactJS**, and **MongoDB**, supporting search, reservations, real-time availability, and role-based access (**Customer, Manager, Admin**).
-* Developed secure **REST APIs** with **OAuth2, JWT**, and **RBAC**; added dashboards, notifications, and **Google Maps** integration. Automated deployments with **CI/CD** (GitHub Actions) on **AWS (EC2, ALB)**; **won 2nd Prize at SJ Hacks Hackathon**.
-* **Technologies Used**: Java (Spring Boot), React.js, MongoDB, REST APIs, OAuth2, JWT, RBAC, Google Maps API, AWS (EC2, ALB, Auto Scaling), GitHub Actions (CI/CD), Microservices architecture.
-
- **Fleet Telemetry Playground**
-
-* Developed a **Go** producer that streams synthetic vehicle events to **Kafka**, with **Airflow** DAGs used to compact and index data into **PostgreSQL**.
-* Built a **React** UI that supports dynamic fleet queries (e.g., "100 cars ≥ 60 MPH, windows down, AC on") with a live tail via **WebSocket**.
-* Implemented a 5-minute **Redis** rolling cache and simple anomaly flags using **z-score**.
-* **Dockerized** all services and integrated **CI/CD** workflows using **GitHub Actions**.
-* **Technologies Used**: Go, Kafka, Airflow, React, PostgreSQL, Redis, Docker, GitHub Actions, WebSocket.
-
-
-### **AI Medical Chatbot with RAG**
-* Deployed a medical chatbot powered by a Retrieval-Augmented Generation (RAG) architecture.
-* Assisted patients and healthcare providers by retrieving and summarizing relevant medical documents in real time.
-* Utilized HuggingFace Transformers for text embedding and Faiss for efficient vector search.
-* Achieved 91% semantic retrieval accuracy across a dataset of over 5K+ healthcare records.
-* **Technologies Used**: HuggingFace, Faiss, LangChain, Mistral 7B, Streamlit, Python.
-
-### **Spotify Data Analysis**
-* Designed and developed a complete data warehousing solution to analyze Spotify streaming data and deliver insights for music trends.
-* Utilized the Spotify API and Python to extract and preprocess real-time track metadata including artist, genre, and popularity.
-* Modeled data using a star schema in Snowflake, which improved query efficiency by 30% for genre and artist insights.
-* Built over 20+ compelling visualizations using Matplotlib and Power BI to showcase trends in genres, top artists, and track popularity.
-* **Technologies Used**: AWS S3, Glue, Snowflake, Python, Matplotlib, Power BI, Spotify API.
-
-**Technologies Used**: AWS S3, Glue, Snowflake, Python, Matplotlib, Power BI, Spotify API.
-
-### **Sentiment Analysis on Yelp Reviews**
-* Developed a real-time sentiment analysis pipeline to classify Yelp review text as positive, negative, or neutral.
-* Utilized TextBlob and VADER for sentiment classification.
-* Ingested streaming review data using Apache NiFi and Python socket programming.
-* Processed and classified sentiment using PySpark and stored results in AWS S3 for historical tracking and further analysis.
-* Built an interactive Streamlit dashboard to visualize sentiment trends over time.
-* **Technologies Used**: Python, PySpark, TextBlob, VADER, Apache NiFi, AWS S3, Streamlit.
-
-
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/shibin-biji-593228183/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shibinbiji19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://shibin-portfolio-5bmgh705u-shibin506s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 ---
 
+## What I build
 
+- 🤖 **AI-native workflows** — LLM API integration, prompt design, offline model-evaluation loops, RAG, and MCP tooling wired into real services → *LinkedIn internship, ServiceNow AI API Integration Service, AI Medical Chatbot*
+- ⚡ **Event-driven & streaming systems** — Kafka / Flink / Airflow pipelines and async workers tuned for latency and throughput → *AI-Native Workflow Automation Engine, Fleet Telemetry Playground*
+- ⚙️ **Backend & cloud platforms** — Java / Python / Go / C++ microservices on PostgreSQL, Cassandra & Redis — containerized on Kubernetes, CI/CD-gated, observable → *Accenture, BookTable*
 
+The pattern across all of them: **measure first, then move the number** — latency, accuracy, availability — with a test or automated gate in front of every release.
 
+---
 
- 
+## Experience
 
-  **“Turning raw data into real insights with clean pipelines and curious thinking.”**
+### 💼 Software Engineer Intern — LinkedIn &nbsp;·&nbsp; Sunnyvale, CA &nbsp;·&nbsp; *May 2026 – Aug 2026*
+- Built AI-native telemetry workflows and REST integration pipelines in Python on AWS (**SNS → Firehose → S3, Glue, Athena, Lambda**) — **~90% less manual reporting**.
+- Worked on AI API integration, prompt design, and offline model-evaluation loops in Python / PyTorch; automated scoring routines lifted prediction accuracy **72% → 85%**.
+- Refactored high-throughput Python & C++ query layers and fixed staging bottlenecks — end-to-end latency **120 ms → 85 ms**.
+- Integrated multi-model LLM workflows (Claude + AI dev tools) for architecture prototyping and automated prompt engineering — convergence reliability **65% → 87%**.
+- Shipped containerized deployments on **Kubernetes** with Git + **Airflow** DAGs, unit tests, and CI/CD verification gates.
 
+### 💼 Software Engineer — Accenture &nbsp;·&nbsp; Pune, India &nbsp;·&nbsp; *Jul 2021 – Dec 2024*
+- Architected cloud-native Java microservices with secure coding, unit testing, and code review — platform availability **98.2% → 99.7%**.
+- Built workflows, business rules, REST APIs, and integrations in JavaScript, TypeScript, and **ServiceNow GlideScript**.
+- Redesigned indexed data models on **PostgreSQL** & **Cassandra** — API response times **450 ms → 280 ms**.
+- Led customer triage and root-cause debugging in an Agile team; automated CI/CD with **Jenkins, Docker, Git on GCP**.
+
+---
+
+## Featured projects
+
+### ⚡ AI-Native Workflow Automation & Cloud Stream Engine
+*A real-time workflow engine that runs event-driven business rules asynchronously across cloud microservices.*
+
+Custom queue algorithms and business rules on **Apache Flink + Kafka** with tuned memory allocation cut average queuing latency **150 ms → 95 ms**; self-healing services on **Kubernetes** with unit tests and automated CI/CD hold **99.5% reliability** under heavy concurrency.
+
+`Python` `Java` `C++` `Kafka` `Flink` `Kubernetes` `Docker` `REST` `SQL`
+
+### 📊 ServiceNow Platform Analytics & AI API Integration Service
+*Platform automation services with an LLM- and MCP-powered workflow layer.*
+
+Migrated legacy workflow schemas to **AWS S3 + PostgreSQL** under strict security controls; distributed query workflows, health checks, and dashboards on **Spark, Airflow, and Trino** with SQL optimizations that sped up analytical retrieval **35%**; endpoints exposed over **REST, gRPC, and GraphQL** (Express) with LLM prompt APIs and **MCP** authoring tools for low-latency automation.
+
+`Java` `Python` `GlideScript` `PostgreSQL` `AWS S3` `Spark` `Airflow` `Trino` `gRPC` `GraphQL` `MCP`
+
+### 🍽️ BookTable — Cloud-Native Restaurant Booking 🏆 *2nd Prize, SJ Hacks*
+*Restaurant search, reservations, and real-time availability, end to end.*
+
+Spring Boot microservices over **MongoDB** with secure REST APIs (**OAuth2, JWT, RBAC**) for customers, managers, and admins; React frontend with dashboards, notifications, and Google Maps; CI/CD via GitHub Actions to **AWS (EC2, ALB, Auto Scaling)**.
+
+`Java` `Spring Boot` `React` `MongoDB` `OAuth2 / JWT` `GitHub Actions` `AWS`
+
+### 🚗 Fleet Telemetry Playground
+*Query a live vehicle fleet with plain filters — "100 cars ≥ 60 MPH, windows down, AC on".*
+
+A **Go** producer streams synthetic vehicle events to **Kafka**; **Airflow** DAGs compact and index them into **PostgreSQL**; a **React** UI runs dynamic fleet queries with a live **WebSocket** tail, backed by a 5-minute **Redis** rolling cache and z-score anomaly flags. Fully Dockerized with GitHub Actions CI.
+
+`Go` `Kafka` `Airflow` `PostgreSQL` `Redis` `React` `WebSocket` `Docker`
+
+---
+
+## Also built
+
+| Project | What it is | Stack |
+|---|---|---|
+| **AI Medical Chatbot (RAG)** | Retrieval-augmented chatbot that finds and summarizes medical documents in real time — **91% semantic retrieval accuracy** over 5K+ healthcare records | Python · HuggingFace · FAISS · LangChain · Mistral 7B · Streamlit |
+| **Spotify Data Warehouse** | End-to-end warehouse on Spotify API data; star schema in Snowflake improved genre / artist query efficiency **30%**; 20+ visualizations | Python · AWS S3 / Glue · Snowflake · Power BI |
+| **Real-time Yelp Sentiment** | Streaming ingest → PySpark sentiment classification → S3 history → live Streamlit trend dashboard | Python · Apache NiFi · PySpark · VADER / TextBlob · AWS S3 |
+
+---
+
+## Open source
+
+Contributor to **[rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server)** (⭐ 17.8k) — an AI pipeline engine with a multithreaded C++17 core and 130+ Python-extensible nodes across 15+ LLM providers:
+
+- Core runtime and execution optimizations in the C++17 / Python engine
+- **Exactly-once delivery** semantics for event queues
+- Integrated **Model Context Protocol (MCP)** authoring tools to automate prompt design and agent-workflow creation
+
+---
+
+## Stack
+
+| Area | Tools I reach for |
+|---|---|
+| **Languages** | Python · Java · JavaScript / TypeScript · C++17 · Go · SQL · GlideScript · Bash |
+| **AI / LLM** | Claude / Claude Code · Model Context Protocol (MCP) · RAG · vLLM · PyTorch · HuggingFace · FAISS · LangChain / LangGraph · Cursor · Windsurf |
+| **Backend & APIs** | REST · gRPC / Protobuf · GraphQL · Spring Boot · Node.js / Express · FastAPI · Flask |
+| **Data & storage** | PostgreSQL · MySQL · Cassandra · Redis · MongoDB · AWS S3 · Apache Iceberg · PgBouncer · Snowflake |
+| **Streaming & processing** | Apache Kafka · Apache Flink · Apache Spark · Trino · Apache Airflow |
+| **Cloud & infra** | AWS (Lambda, Firehose, SNS, S3, Glue, Athena, EC2) · GCP · Kubernetes · Helm · Docker |
+| **DevOps & tooling** | Git · GitHub Actions · Jenkins · CMake · Linux / systemd · Postman · JUnit · PyTest |
+
+---
+
+## Now
+
+- 🎓 **M.S. Applied Data Intelligence** @ San José State University · graduating **May 2027** — Operating Systems, Distributed Systems, Advanced Algorithms, Database Management, Cloud Infrastructure
+- 🔭 **Recently shipped:** AI-native telemetry pipelines and LLM evaluation loops during my **LinkedIn** internship, plus runtime and MCP work on RocketRide
+- 🧭 **Exploring next:** agentic workflows on MCP, LLM serving with vLLM, and lakehouse patterns on Iceberg + Trino
+
+---
+
+## Contact
+
+📫 **shibinbiji19@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/shibin-biji-593228183/) &nbsp;·&nbsp; [Portfolio](https://shibin-portfolio-5bmgh705u-shibin506s-projects.vercel.app/) &nbsp;·&nbsp; San Francisco Bay Area, CA
+
+**Open to Software Engineering and AI / Backend Engineering roles — New Grad 2027.**
