@@ -13,7 +13,7 @@ Software Engineer Intern @ <b>LinkedIn</b> &nbsp;·&nbsp; ex-Software Engineer @
 <p align="center">
   <a href="https://www.linkedin.com/in/shibin-biji-593228183/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:shibinbiji2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://shibin-portfolio-5bmgh705u-shibin506s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://shibin-portfolio-steel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -121,6 +121,6 @@ Contributor to **[rocketride-org/rocketride-server](https://github.com/rocketrid
 
 ## Contact
 
-📫 **shibinbiji2@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/shibin-biji-593228183/) &nbsp;·&nbsp; [Portfolio](https://shibin-portfolio-5bmgh705u-shibin506s-projects.vercel.app/) &nbsp;·&nbsp; San Francisco Bay Area, CA
+📫 **shibinbiji2@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/shibin-biji-593228183/) &nbsp;·&nbsp; [Portfolio](https://shibin-portfolio-steel.vercel.app/) &nbsp;·&nbsp; San Francisco Bay Area, CA
 
 **Open to Software Engineering and AI / Backend Engineering roles — New Grad 2027.**
