@@ -81,6 +81,8 @@ A **Go** producer streams synthetic vehicle events to **Kafka**; **Airflow** DAG
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[ScreenSensei](https://github.com/Shibin506/ai-desktop)** *(team project, Cal Hacks 13.0)* | Desktop AI tutor that reads your screen, points and draws on it, and talks you through math, chess, software and languages step by step; streamed answers start speaking in **~3 s**, with **382 unit tests** and a 13-case accuracy eval set | TypeScript · Electron · React · Fastify · Claude · Cartesia · Convex |
+| **[GlobalGuide AI Travel Planner](https://github.com/Shibin506/globalguide-ai-travel-planner)** | Agentic travel planner on a LangGraph workflow that reasons across **9 custom tools** (weather, places, currency) to build personalized itineraries, served by a FastAPI backend | Python · LangGraph · Groq LLM · FastAPI · Streamlit · Pydantic |
 | **AI Medical Chatbot (RAG)** | Retrieval-augmented chatbot that finds and summarizes medical documents in real time — **91% semantic retrieval accuracy** over 5K+ healthcare records | Python · HuggingFace · FAISS · LangChain · Mistral 7B · Streamlit |
 | **Spotify Data Warehouse** | End-to-end warehouse on Spotify API data; star schema in Snowflake improved genre / artist query efficiency **30%**; 20+ visualizations | Python · AWS S3 / Glue · Snowflake · Power BI |
 | **Real-time Yelp Sentiment** | Streaming ingest → PySpark sentiment classification → S3 history → live Streamlit trend dashboard | Python · Apache NiFi · PySpark · VADER / TextBlob · AWS S3 |
