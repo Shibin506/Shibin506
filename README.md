@@ -47,6 +47,13 @@ The pattern across all of them: **measure first, then move the number** — late
 
 ## Featured projects
 
+### 🔦 [Lumen — RAG Analytics & Client Integration Platform](https://github.com/Shibin506/rag-analytics-platform)
+*Client apps stream events and documents in; a lake pipeline makes them fast to query; an assistant answers from the documents with citations.*
+
+A **Go** gateway ingests events over **gRPC and REST** with per-tenant **JSON Schema** validation (~78K events/s from one client) into an **S3** lake; a **Java / Spring GraphQL** API versions schemas and rejects breaking changes; a nightly **Airflow** DAG runs **Spark** compaction to Parquet and **Trino** rollups with row-count reconciliation — **70% lower dashboard query latency** over 2.35M events. A **Python / FastAPI** RAG service does hybrid **pgvector** + full-text retrieval with cited, streamed answers and feedback-aware ranking (0.89 hit@3 on a 26-question eval), behind a **React + TypeScript** dashboard. 59 tests, CI, one `docker compose up`.
+
+`Go` `gRPC` `Java` `Spring Boot` `GraphQL` `Python` `FastAPI` `Spark` `Airflow` `Trino` `PostgreSQL` `pgvector` `React` `TypeScript` `Docker`
+
 ### ⚡ AI-Native Workflow Automation & Cloud Stream Engine
 *A real-time workflow engine that runs event-driven business rules asynchronously across cloud microservices.*
 
