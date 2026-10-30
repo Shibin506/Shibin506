@@ -61,7 +61,7 @@ Migrated legacy workflow schemas to **AWS S3 + PostgreSQL** under strict securit
 
 `Java` `Python` `GlideScript` `PostgreSQL` `AWS S3` `Spark` `Airflow` `Trino` `gRPC` `GraphQL` `MCP`
 
-### 🍽️ BookTable — Cloud-Native Restaurant Booking 🏆 *2nd Prize, SJ Hacks*
+### 🍽️ [BookTable — Cloud-Native Restaurant Booking](https://github.com/Shibin506/-BookTable-Cloud-Native-Restaurant-Booking-System) 🏆 *2nd Prize, SJ Hacks*
 *Restaurant search, reservations, and real-time availability, end to end.*
 
 Spring Boot microservices over **MongoDB** with secure REST APIs (**OAuth2, JWT, RBAC**) for customers, managers, and admins; React frontend with dashboards, notifications, and Google Maps; CI/CD via GitHub Actions to **AWS (EC2, ALB, Auto Scaling)**.
@@ -81,11 +81,15 @@ A **Go** producer streams synthetic vehicle events to **Kafka**; **Airflow** DAG
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[StrataKV](https://github.com/Shibin506/StrataKV)** | Crash-safe key-value storage engine (LSM tree) with a checksummed write-ahead log, SSTables + Bloom filters, levelled compaction and MVCC snapshots; kill -9 crash tests at every disk step. Level with **RocksDB** on random writes (381K vs 386K ops/s) and **1.6x faster** on point reads in-memory | Rust · LSM tree · WAL · MVCC · Criterion benchmarks |
+| **[redos-proof](https://github.com/Shibin506/redos-proof)** | Finds regexes vulnerable to catastrophic backtracking (ReDoS) in JS / TS / Python / Ruby code and **proves** each one by running the generated attack on the real engine; **100% recall, 0 false positives** on a self-verifying corpus. Ships a CLI, pre-commit hook, GitHub Action and SARIF output | Rust · NFA modelling · Node / Python / Ruby engines · SARIF |
+| **[MedBridge](https://github.com/Shibin506/MedBridge)** | Turns hospital discharge papers into a daily plan patients can follow: AI extracts medicines and warning signs, code verifies every item against the source, then daily SMS / Telegram check-ins escalate worrying replies to a care-team dashboard. **804 tests**, incl. a 336-case safety eval | Python · FastAPI · Next.js · LLMs (Groq / Gemini / Claude) · Twilio · SQLite |
+| **[Minutes](https://github.com/Shibin506/minutes-ai)** | AI meeting copilot: upload a transcript, get decisions and action items linked to the exact timestamp, then ask questions across all meetings with streamed, cited answers. BM25 retrieval scores **hit@3 = 1.00** on a 20-question eval run in CI | Python · FastAPI · SQLite FTS5 · Claude API · React / TypeScript · Docker |
 | **[ScreenSensei](https://github.com/Shibin506/ai-desktop)** *(team project, Cal Hacks 13.0)* | Desktop AI tutor that reads your screen, points and draws on it, and talks you through math, chess, software and languages step by step; streamed answers start speaking in **~3 s**, with **382 unit tests** and a 13-case accuracy eval set | TypeScript · Electron · React · Fastify · Claude · Cartesia · Convex |
-| **[GlobalGuide AI Travel Planner](https://github.com/Shibin506/globalguide-ai-travel-planner)** | Agentic travel planner on a LangGraph workflow that reasons across **9 custom tools** (weather, places, currency) to build personalized itineraries, served by a FastAPI backend | Python · LangGraph · Groq LLM · FastAPI · Streamlit · Pydantic |
-| **AI Medical Chatbot (RAG)** | Retrieval-augmented chatbot that finds and summarizes medical documents in real time — **91% semantic retrieval accuracy** over 5K+ healthcare records | Python · HuggingFace · FAISS · LangChain · Mistral 7B · Streamlit |
-| **Spotify Data Warehouse** | End-to-end warehouse on Spotify API data; star schema in Snowflake improved genre / artist query efficiency **30%**; 20+ visualizations | Python · AWS S3 / Glue · Snowflake · Power BI |
-| **Real-time Yelp Sentiment** | Streaming ingest → PySpark sentiment classification → S3 history → live Streamlit trend dashboard | Python · Apache NiFi · PySpark · VADER / TextBlob · AWS S3 |
+| **[GlobalGuide AI Travel Planner](https://github.com/Shibin506/GlobalGuide-AI-Travel-Planner)** | Agentic travel planner on a LangGraph workflow that reasons across **9 custom tools** (weather, places, currency) to build personalized itineraries, served by a FastAPI backend | Python · LangGraph · Groq LLM · FastAPI · Streamlit · Pydantic |
+| **[AI Medical Chatbot (RAG)](https://github.com/Shibin506/AI-MEDICAL-CHATBOT-with-RAG)** | Retrieval-augmented chatbot that finds and summarizes medical documents in real time — **91% semantic retrieval accuracy** over 5K+ healthcare records | Python · HuggingFace · FAISS · LangChain · Mistral 7B · Streamlit |
+| **[Spotify Data Warehouse](https://github.com/Shibin506/Spotifyzer)** | End-to-end warehouse on Spotify API data; star schema in Snowflake improved genre / artist query efficiency **30%**; 20+ visualizations | Python · AWS S3 / Glue · Snowflake · Power BI |
+| **[Real-time Yelp Sentiment](https://github.com/Shibin506/Sentiment-Analysis-on-Yelp-Reviews)** | Streaming ingest → PySpark sentiment classification → S3 history → live Streamlit trend dashboard | Python · Apache NiFi · PySpark · VADER / TextBlob · AWS S3 |
 
 ---
 
