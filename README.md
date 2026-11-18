@@ -1,13 +1,13 @@
 <h1 align="center">Shibin Biji Thomas</h1>
 
-<p align="center"><b>Software Engineer · AI/ML & Machine Learning · Distributed Systems</b></p>
+<p align="center"><b>Software Engineer · AI/ML · Full-Stack · Cloud Backend</b></p>
 
 <p align="center">
-I build AI-native cloud software — LLM-integrated workflows, event-driven microservices, and the data pipelines and CI/CD gates that keep them reliable in production.
+Hands-on experience in AI/ML, full-stack and cloud backend engineering, from shipping production systems at LinkedIn and Accenture.
 </p>
 
 <p align="center">
-Software Engineer Intern @ <b>LinkedIn</b> &nbsp;·&nbsp; ex-Software Engineer @ <b>Accenture</b> (3+ yrs) &nbsp;·&nbsp; M.S. Applied Data Intelligence @ <b>San José State University</b> ('27) &nbsp;·&nbsp; San Francisco Bay Area, CA
+AI/ML &amp; Software Engineer Intern @ <b>LinkedIn</b> &nbsp;·&nbsp; ex-Software Engineer @ <b>Accenture</b> (3.5 yrs) &nbsp;·&nbsp; M.S. Applied Data Intelligence @ <b>San José State University</b> (Dec 2026) &nbsp;·&nbsp; San Francisco Bay Area, CA
 </p>
 
 <p align="center">
@@ -16,119 +16,127 @@ Software Engineer Intern @ <b>LinkedIn</b> &nbsp;·&nbsp; ex-Software Engineer @
   <a href="https://shibin-portfolio-steel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
+<p align="center"><i>Open to new-grad Software Engineering roles · MS graduating December 2026</i></p>
+
 ---
 
-## What I build
+## About me
 
-- 🤖 **AI-native workflows** — LLM API integration, prompt design, offline model-evaluation loops, RAG, and MCP tooling wired into real services → *LinkedIn internship, ServiceNow AI API Integration Service, AI Medical Chatbot*
-- ⚡ **Event-driven & streaming systems** — Kafka / Flink / Airflow pipelines and async workers tuned for latency and throughput → *AI-Native Workflow Automation Engine, Fleet Telemetry Playground*
-- ⚙️ **Backend & cloud platforms** — Java / Python / Go / C++ microservices on PostgreSQL, Cassandra & Redis — containerized on Kubernetes, CI/CD-gated, observable → *Accenture, BookTable*
-
-The pattern across all of them: **measure first, then move the number** — latency, accuracy, availability — with a test or automated gate in front of every release.
+- 🤖 At **LinkedIn** I worked on the **feed recommendation system**, shipping ranking-model improvements in **PyTorch and TensorFlow** (11 of 12 AUC wins), along with RAG and LLM evaluation pipelines.
+- 🧱 Before that I spent **three and a half years at Accenture** as a **full-stack engineer**, building React and TypeScript apps on Go, Java and Python microservices on AWS, and raising platform availability from **98.2% to 99.7%**.
+- 🌐 I contribute to **[rocketride-server](https://github.com/rocketride-org/rocketride-server)**, a ⭐ 17.8k open-source C++/Python AI pipeline engine, fixing bugs in its CLI, LLM provider integrations, and database and graph nodes.
 
 ---
 
 ## Experience
 
-### 💼 Software Engineer Intern — LinkedIn &nbsp;·&nbsp; Sunnyvale, CA &nbsp;·&nbsp; *May 2026 – Aug 2026*
-- Built AI-native telemetry workflows and REST integration pipelines in Python on AWS (**SNS → Firehose → S3, Glue, Athena, Lambda**) — **~90% less manual reporting**.
-- Worked on AI API integration, prompt design, and offline model-evaluation loops in Python / PyTorch; automated scoring routines lifted prediction accuracy **72% → 85%**.
-- Refactored high-throughput Python & C++ query layers and fixed staging bottlenecks — end-to-end latency **120 ms → 85 ms**.
-- Integrated multi-model LLM workflows (Claude + AI dev tools) for architecture prototyping and automated prompt engineering — convergence reliability **65% → 87%**.
-- Shipped containerized deployments on **Kubernetes** with Git + **Airflow** DAGs, unit tests, and CI/CD verification gates.
+### 💼 AI/ML &amp; Software Engineer Intern — LinkedIn &nbsp;·&nbsp; Sunnyvale, CA &nbsp;·&nbsp; *May 2026 – Aug 2026*
+- Delivered production **ranking-model optimizations for the feed recommendation system** in **PyTorch and TensorFlow** across concurrent pipelines: **11/12 AUC wins** (up to +0.20% Click) and 11/12 Normalized Entropy (NE) improvements.
+- Built custom **RAG pipelines, LLM evaluation workflows and AI agent frameworks** in Python and PyTorch, using vector databases to raise prediction accuracy from **72% to 85%**.
+- Engineered automated cloud telemetry, workflow automation and audit monitoring pipelines on AWS (**SNS → Firehose → S3, Lambda**) and GCP in Go and Python, cutting manual reporting effort by **90%**.
+- Developed high-throughput serverless microservices and backend APIs in Go and Python, optimizing stream processing and event feedback loops to cut latency from **120 ms to 85 ms**.
+- Used AI tools (Claude, Copilot) and serverless AWS Lambda routines for rapid service prototyping, raising execution reliability from **65% to 87%**.
+- Ran containerized services on **AWS EKS and Kubernetes** with Docker, Airflow DAGs and Git, with automated unit tests and CI/CD verification gates.
 
-### 💼 Software Engineer — Accenture &nbsp;·&nbsp; Pune, India &nbsp;·&nbsp; *Jul 2021 – Dec 2024*
-- Architected cloud-native Java microservices with secure coding, unit testing, and code review — platform availability **98.2% → 99.7%**.
-- Built workflows, business rules, REST APIs, and integrations in JavaScript, TypeScript, and **ServiceNow GlideScript**.
-- Redesigned indexed data models on **PostgreSQL** & **Cassandra** — API response times **450 ms → 280 ms**.
-- Led customer triage and root-cause debugging in an Agile team; automated CI/CD with **Jenkins, Docker, Git on GCP**.
-
----
-
-## Featured projects
-
-### 🔦 [Lumen — RAG Analytics & Client Integration Platform](https://github.com/Shibin506/rag-analytics-platform)
-*Client apps stream events and documents in; a lake pipeline makes them fast to query; an assistant answers from the documents with citations.*
-
-A **Go** gateway ingests events over **gRPC and REST** with per-tenant **JSON Schema** validation (~78K events/s from one client) into an **S3** lake; a **Java / Spring GraphQL** API versions schemas and rejects breaking changes; a nightly **Airflow** DAG runs **Spark** compaction to Parquet and **Trino** rollups with row-count reconciliation — **70% lower dashboard query latency** over 2.35M events. A **Python / FastAPI** RAG service does hybrid **pgvector** + full-text retrieval with cited, streamed answers and feedback-aware ranking (0.89 hit@3 on a 26-question eval), behind a **React + TypeScript** dashboard. 59 tests, CI, one `docker compose up`.
-
-`Go` `gRPC` `Java` `Spring Boot` `GraphQL` `Python` `FastAPI` `Spark` `Airflow` `Trino` `PostgreSQL` `pgvector` `React` `TypeScript` `Docker`
-
-### ⚡ AI-Native Workflow Automation & Cloud Stream Engine
-*A real-time workflow engine that runs event-driven business rules asynchronously across cloud microservices.*
-
-Custom queue algorithms and business rules on **Apache Flink + Kafka** with tuned memory allocation cut average queuing latency **150 ms → 95 ms**; self-healing services on **Kubernetes** with unit tests and automated CI/CD hold **99.5% reliability** under heavy concurrency.
-
-`Python` `Java` `C++` `Kafka` `Flink` `Kubernetes` `Docker` `REST` `SQL`
-
-### 📊 ServiceNow Platform Analytics & AI API Integration Service
-*Platform automation services with an LLM- and MCP-powered workflow layer.*
-
-Migrated legacy workflow schemas to **AWS S3 + PostgreSQL** under strict security controls; distributed query workflows, health checks, and dashboards on **Spark, Airflow, and Trino** with SQL optimizations that sped up analytical retrieval **35%**; endpoints exposed over **REST, gRPC, and GraphQL** (Express) with LLM prompt APIs and **MCP** authoring tools for low-latency automation.
-
-`Java` `Python` `GlideScript` `PostgreSQL` `AWS S3` `Spark` `Airflow` `Trino` `gRPC` `GraphQL` `MCP`
-
-### 🍽️ [BookTable — Cloud-Native Restaurant Booking](https://github.com/Shibin506/-BookTable-Cloud-Native-Restaurant-Booking-System) 🏆 *2nd Prize, SJ Hacks*
-*Restaurant search, reservations, and real-time availability, end to end.*
-
-Spring Boot microservices over **MongoDB** with secure REST APIs (**OAuth2, JWT, RBAC**) for customers, managers, and admins; React frontend with dashboards, notifications, and Google Maps; CI/CD via GitHub Actions to **AWS (EC2, ALB, Auto Scaling)**.
-
-`Java` `Spring Boot` `React` `MongoDB` `OAuth2 / JWT` `GitHub Actions` `AWS`
-
-### 🚗 Fleet Telemetry Playground
-*Query a live vehicle fleet with plain filters — "100 cars ≥ 60 MPH, windows down, AC on".*
-
-A **Go** producer streams synthetic vehicle events to **Kafka**; **Airflow** DAGs compact and index them into **PostgreSQL**; a **React** UI runs dynamic fleet queries with a live **WebSocket** tail, backed by a 5-minute **Redis** rolling cache and z-score anomaly flags. Fully Dockerized with GitHub Actions CI.
-
-`Go` `Kafka` `Airflow` `PostgreSQL` `Redis` `React` `WebSocket` `Docker`
-
----
-
-## Also built
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[StrataKV](https://github.com/Shibin506/StrataKV)** | Crash-safe key-value storage engine (LSM tree) with a checksummed write-ahead log, SSTables + Bloom filters, levelled compaction and MVCC snapshots; kill -9 crash tests at every disk step. Level with **RocksDB** on random writes (381K vs 386K ops/s) and **1.6x faster** on point reads in-memory | Rust · LSM tree · WAL · MVCC · Criterion benchmarks |
-| **[redos-proof](https://github.com/Shibin506/redos-proof)** | Finds regexes vulnerable to catastrophic backtracking (ReDoS) in JS / TS / Python / Ruby code and **proves** each one by running the generated attack on the real engine; **100% recall, 0 false positives** on a self-verifying corpus. Ships a CLI, pre-commit hook, GitHub Action and SARIF output | Rust · NFA modelling · Node / Python / Ruby engines · SARIF |
-| **[MedBridge](https://github.com/Shibin506/MedBridge)** | Turns hospital discharge papers into a daily plan patients can follow: AI extracts medicines and warning signs, code verifies every item against the source, then daily SMS / Telegram check-ins escalate worrying replies to a care-team dashboard. **804 tests**, incl. a 336-case safety eval | Python · FastAPI · Next.js · LLMs (Groq / Gemini / Claude) · Twilio · SQLite |
-| **[Minutes](https://github.com/Shibin506/minutes-ai)** | AI meeting copilot: upload a transcript, get decisions and action items linked to the exact timestamp, then ask questions across all meetings with streamed, cited answers. BM25 retrieval scores **hit@3 = 1.00** on a 20-question eval run in CI | Python · FastAPI · SQLite FTS5 · Claude API · React / TypeScript · Docker |
-| **[ScreenSensei](https://github.com/Shibin506/ai-desktop)** *(team project, Cal Hacks 13.0)* | Desktop AI tutor that reads your screen, points and draws on it, and talks you through math, chess, software and languages step by step; streamed answers start speaking in **~3 s**, with **382 unit tests** and a 13-case accuracy eval set | TypeScript · Electron · React · Fastify · Claude · Cartesia · Convex |
-| **[GlobalGuide AI Travel Planner](https://github.com/Shibin506/GlobalGuide-AI-Travel-Planner)** | Agentic travel planner on a LangGraph workflow that reasons across **9 custom tools** (weather, places, currency) to build personalized itineraries, served by a FastAPI backend | Python · LangGraph · Groq LLM · FastAPI · Streamlit · Pydantic |
-| **[AI Medical Chatbot (RAG)](https://github.com/Shibin506/AI-MEDICAL-CHATBOT-with-RAG)** | Retrieval-augmented chatbot that finds and summarizes medical documents in real time — **91% semantic retrieval accuracy** over 5K+ healthcare records | Python · HuggingFace · FAISS · LangChain · Mistral 7B · Streamlit |
-| **[Spotify Data Warehouse](https://github.com/Shibin506/Spotifyzer)** | End-to-end warehouse on Spotify API data; star schema in Snowflake improved genre / artist query efficiency **30%**; 20+ visualizations | Python · AWS S3 / Glue · Snowflake · Power BI |
-| **[Real-time Yelp Sentiment](https://github.com/Shibin506/Sentiment-Analysis-on-Yelp-Reviews)** | Streaming ingest → PySpark sentiment classification → S3 history → live Streamlit trend dashboard | Python · Apache NiFi · PySpark · VADER / TextBlob · AWS S3 |
+### 💼 Software Engineer (Full-Stack) — Accenture &nbsp;·&nbsp; Pune, India &nbsp;·&nbsp; *Jul 2021 – Dec 2024*
+- Architected scalable serverless microservices and backend transaction systems in **Go, Java and Python**, lifting platform availability from **98.2% to 99.7%**.
+- Built client web apps and integrations in **React.js, TypeScript** and REST APIs, and designed **gRPC** contracts and **GraphQL** schemas with Protobuf to standardize data flow.
+- Tuned **PostgreSQL** schemas, indexes, queries and connection pooling, cutting backend API response times from **450 ms to 280 ms**.
+- Automated deployments with **Docker, Kubernetes and Jenkins on AWS and GCP**, with live telemetry monitoring and automated tests for zero-downtime releases.
 
 ---
 
 ## Open source
 
-Contributor to **[rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server)** (⭐ 17.8k) — an AI pipeline engine with a multithreaded C++17 core and 130+ Python-extensible nodes across 15+ LLM providers:
+Contributor to **[rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server)** (⭐ 17.8k), an open-source, multithreaded C++17/Python engine that runs AI workflows across 130+ Python nodes, 15+ LLM providers and databases.
 
-- Core runtime and execution optimizations in the C++17 / Python engine
-- **Exactly-once delivery** semantics for event queues
-- Integrated **Model Context Protocol (MCP)** authoring tools to automate prompt design and agent-workflow creation
+| PR | What it fixes | Status |
+|---|---|---|
+| [#2679](https://github.com/rocketride-org/rocketride-server/pull/2679) | A bare `--modelserver` port (e.g. `--modelserver=5590`) was read as a hostname; it now means `localhost:PORT`. Passed CI on macOS, Ubuntu and Windows | ✅ Merged |
+| [#2680](https://github.com/rocketride-org/rocketride-server/pull/2680) | The Gemini LLM node now actually sends the configured output-token limit to Google and saves it where it is read back; image models capped at Google's published limits | 🔍 In review |
+| [#3276](https://github.com/rocketride-org/rocketride-server/pull/3276) | With the graph `execute` tool disabled, agents now get pointed to the read tools (`get_data`, `query`) instead of a dead-end error. Covers FalkorDB, Neo4j and RocketRide Graph | 🔍 In review |
+| [#3277](https://github.com/rocketride-org/rocketride-server/pull/3277) | An unfilled `${ROCKETRIDE_*}` credential in a database or graph node now stops the run and names the missing variable, across 7 database and graph nodes; 19 new tests | 🔍 In review |
 
 ---
 
-## Stack
+## Featured projects
 
-| Area | Tools I reach for |
+### 🩹 [Mender — AI CI-Failure Diagnosis GitHub App](https://github.com/Shibin506/mender)
+*A GitHub App that reads a failed CI run on a pull request and posts the root cause and a fix.*
+
+<a href="https://github.com/Shibin506/mender"><img src="https://github.com/Shibin506/mender/raw/main/docs/images/demo.gif" alt="Mender demo: a failing test is diagnosed, the fix is verified, and the tests go green" width="720"/></a>
+
+- Diagnoses failures with an LLM (**Claude or Gemini**, typed structured output) and shows a fix only if it applies to the PR's head commit; locally it also runs the tests on the patched code and hides fixes that still fail.
+- Broker-less **Postgres job queue** (`SKIP LOCKED`) with webhook signature checks, deduplication, retries with backoff and crashed-job recovery; a concurrency test shows exactly-once claiming across 8 workers.
+- Log extractor covering ~30 failure patterns across 8 toolchains sends **~0.3% of each log** to the model; on a 30-case eval, Gemini 3.5 Flash got the failure type right in **25 of 26** answered cases and named the file to fix in **17 of 19**.
+
+`Python` `FastAPI` `PostgreSQL` `Claude API` `Gemini API` `GitHub Apps` `SQLAlchemy` `Docker` `Prometheus` `GitHub Actions`
+
+### 📝 [Minutes — AI Meeting Copilot](https://github.com/Shibin506/minutes-ai)
+*Upload a meeting transcript, get decisions and action items linked to the exact timestamp, then ask questions across all meetings.*
+
+<a href="https://youtu.be/X2rIOmC_pgo"><img src="https://github.com/Shibin506/minutes-ai/raw/main/docs/images/demo-video.png" alt="Watch the 1:45 narrated Minutes demo on YouTube" width="720"/></a>
+
+▶️ **[Watch the 1:45 narrated demo on YouTube](https://youtu.be/X2rIOmC_pgo)**
+
+- Summary, decisions and action items each link to the transcript timestamp; the model cites segment numbers, so timestamps cannot drift.
+- Streamed answers (server-sent events) with numbered citations, retrieved from an **SQLite FTS5 BM25** index; retrieval scores **hit@3 = 1.00** on a 20-question eval that runs in CI.
+
+`Python` `FastAPI` `SQLite FTS5` `Claude API` `Gemini API` `React` `TypeScript` `Docker` `GitHub Actions`
+
+### 🔦 [Lumen — RAG Analytics & Client Integration Platform](https://github.com/Shibin506/rag-analytics-platform)
+*Client apps stream events and documents in; a lake pipeline makes them fast to query; an assistant answers from the documents with citations.*
+
+- A **Go** gateway ingests events over **gRPC and REST** with per-tenant JSON Schema validation (~78K events/s from one client) into an **S3** data lake; a **Java GraphQL** API versions schemas and rejects breaking changes.
+- A nightly **Airflow** pipeline runs **Spark** compaction to partitioned Parquet and **Trino** rollups with row-count reconciliation, cutting dashboard query latency by **70%** over 2.35M events.
+- RAG assistant with hybrid **pgvector** + full-text retrieval, cited streaming answers and feedback-aware ranking (**0.89 hit@3** on a 26-question eval), plus a **React + TypeScript** dashboard.
+
+`Go` `Java` `Python` `TypeScript` `React` `GraphQL` `gRPC` `Spark` `Trino` `Airflow` `PostgreSQL` `pgvector` `S3` `Docker`
+
+### 🗄️ [StrataKV — Crash-Safe Storage Engine in Rust](https://github.com/Shibin506/StrataKV)
+*A log-structured merge tree, the design behind LevelDB, RocksDB and Cassandra.*
+
+- Checksummed write-ahead log, SSTables with Bloom filters and block index, levelled background compaction, and **MVCC snapshots** with range scans that stay consistent while writers and compaction run.
+- Crash tests kill a real process at every step of every disk operation.
+- On 1M keys: level with **RocksDB** on random writes (381K vs 386K ops/s) and **1.6x faster** on in-memory point reads.
+
+`Rust` `LSM Tree` `Write-Ahead Log` `MVCC` `Bloom Filters` `Criterion`
+
+---
+
+## More projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[redos-proof](https://github.com/Shibin506/redos-proof)** | Finds regexes vulnerable to catastrophic backtracking (ReDoS) in JS / TS / Python / Ruby code and **proves** each finding by running the generated attack on the real engines; **100% recall, 0 false positives** on a self-verifying corpus. CLI, pre-commit hook, GitHub Action and SARIF output | Rust · NFA modelling · Static analysis · SARIF |
+| **[MedBridge](https://github.com/Shibin506/MedBridge)** | Turns hospital discharge papers into a plan patients can follow: an LLM extracts medicines, appointments and warning signs, and code verifies every item against the original. Plans in 8 languages, daily SMS / Telegram check-ins that escalate to a care-team dashboard; **804 tests**, incl. a 336-case safety eval | Python · FastAPI · Next.js · TypeScript · LLMs · Twilio · Telegram |
+| **[ScreenSensei](https://github.com/Shibin506/ai-desktop)** *(team project, Cal Hacks 13.0)* | Desktop AI tutor that reads your screen, points and draws on it, and talks you through math, chess, software and languages step by step; narration starts **~3 s** after a question while the rest of the lesson streams in. 380+ unit tests and a 13-case accuracy eval | TypeScript · Electron · React · Fastify · Claude · Cartesia · Convex |
+| **Autonomous AI Agent & Serverless Workflow Engine** | Agent framework and serverless workflow engine with custom RAG pipelines and Kafka; event-driven streaming in Apache Flink cut real-time queuing latency from **150 ms to 95 ms**, on AWS EKS at 99.5% node reliability | Go · Python · Rust · Kafka · Flink · AWS Lambda · Kubernetes |
+| **[BookTable](https://github.com/Shibin506/-BookTable-Cloud-Native-Restaurant-Booking-System)** 🏆 *2nd Prize, SJ Hacks* | Restaurant search, reservations and real-time availability: Spring Boot microservices on MongoDB with OAuth2 / JWT / RBAC, a React frontend, and CI/CD to AWS (EC2, ALB, Auto Scaling) | Java · Spring Boot · React · MongoDB · AWS |
+| **[GlobalGuide AI Travel Planner](https://github.com/Shibin506/GlobalGuide-AI-Travel-Planner)** | Agentic travel planner on LangGraph that reasons across **9 custom tools** (weather, places, currency) to build personalized itineraries, served by FastAPI | Python · LangGraph · Groq LLM · FastAPI · Streamlit |
+| **[AI Medical Chatbot (RAG)](https://github.com/Shibin506/AI-MEDICAL-CHATBOT-with-RAG)** | RAG chatbot that retrieves and summarizes medical documents in real time; **91% semantic retrieval accuracy** over 5K+ healthcare records | Python · HuggingFace · FAISS · LangChain · Mistral 7B |
+| **[Spotify Data Warehouse](https://github.com/Shibin506/Spotifyzer)** | End-to-end warehouse on Spotify API data; a Snowflake star schema made genre / artist queries **30%** faster; 20+ visualizations | Python · AWS S3 / Glue · Snowflake · Power BI |
+| **[Real-time Yelp Sentiment](https://github.com/Shibin506/Sentiment-Analysis-on-Yelp-Reviews)** | Streaming ingest with Apache NiFi, PySpark sentiment classification of 5,000+ reviews at 90%+ accuracy, S3 history and a live Streamlit dashboard | Python · NiFi · PySpark · VADER / TextBlob · AWS S3 |
+
+---
+
+## Skills
+
+| Area | Tools |
 |---|---|
-| **Languages** | Python · Java · JavaScript / TypeScript · C++17 · Go · SQL · GlideScript · Bash |
-| **AI / LLM** | Claude / Claude Code · Model Context Protocol (MCP) · RAG · vLLM · PyTorch · HuggingFace · FAISS · LangChain / LangGraph · Cursor · Windsurf |
-| **Backend & APIs** | REST · gRPC / Protobuf · GraphQL · Spring Boot · Node.js / Express · FastAPI · Flask |
-| **Data & storage** | PostgreSQL · MySQL · Cassandra · Redis · MongoDB · AWS S3 · Apache Iceberg · PgBouncer · Snowflake |
-| **Streaming & processing** | Apache Kafka · Apache Flink · Apache Spark · Trino · Apache Airflow |
-| **Cloud & infra** | AWS (Lambda, Firehose, SNS, S3, Glue, Athena, EC2) · GCP · Kubernetes · Helm · Docker |
-| **DevOps & tooling** | Git · GitHub Actions · Jenkins · CMake · Linux / systemd · Postman · JUnit · PyTest |
+| **Languages** | Go · Python · TypeScript · JavaScript · Java · C++ · Rust · SQL · Bash |
+| **AI / ML** | PyTorch · TensorFlow · Recommendation Systems · Feed Ranking · RAG Pipelines · LLMs · LLM Evaluation · LangChain · Vector Databases · AI Agents |
+| **Full-stack & APIs** | React · Next.js · Node.js · REST · gRPC · Protobuf · GraphQL · WebSockets · Microservices |
+| **Data & cloud** | PostgreSQL · DynamoDB · Redis · Cassandra · Vector Search · AWS · GCP |
+| **Streaming & processing** | Kafka · Apache Flink · Apache Spark · Trino · Airflow · Serverless · Distributed Systems |
+| **DevOps & testing** | Docker · Kubernetes · Git · CI/CD · Jenkins · GitHub Actions · PyTest · Linux · System Monitoring |
 
 ---
 
-## Now
+## Education
 
-- 🎓 **M.S. Applied Data Intelligence** @ San José State University · graduating **May 2027** — Operating Systems, Distributed Systems, Advanced Algorithms, Database Management, Cloud Infrastructure
-- 🔭 **Recently shipped:** AI-native telemetry pipelines and LLM evaluation loops during my **LinkedIn** internship, plus runtime and MCP work on RocketRide
-- 🧭 **Exploring next:** agentic workflows on MCP, LLM serving with vLLM, and lakehouse patterns on Iceberg + Trino
+🎓 **M.S. Applied Data Intelligence**, San José State University · *Jan 2025 – Dec 2026 (expected)* · GPA 3.5
+<br/>Coursework: Distributed Systems · Database Management · Algorithms · Cloud Infrastructure · Machine Learning
 
 ---
 
@@ -136,4 +144,4 @@ Contributor to **[rocketride-org/rocketride-server](https://github.com/rocketrid
 
 📫 **shibinbiji2@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/shibin-biji-593228183/) &nbsp;·&nbsp; [Portfolio](https://shibin-portfolio-steel.vercel.app/) &nbsp;·&nbsp; San Francisco Bay Area, CA
 
-**Open to Software Engineering and AI / Backend Engineering roles — New Grad 2027.**
+**Open to new-grad Software Engineering roles (AI/ML, full-stack, backend) · MS graduating December 2026.**
