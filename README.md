@@ -77,11 +77,11 @@ Contributor to **[rocketride-org/rocketride-server](https://github.com/rocketrid
 
 <a href="https://spotter-gray.vercel.app"><img src="https://github.com/Shibin506/Spotter/raw/main/docs/images/live.png" alt="Spotter live view: rep count, joint angle and skeleton over the video, with feedback on the last rep (sample run on a drawn test mannequin)" width="720"/></a>
 
-- Runs entirely in the browser: **MediaPipe** pose tracking on the phone's GPU (WebAssembly + WebGL) feeds a **TypeScript** analyzer that counts reps, checks squat depth, lockout and torso lean and push-up hip sag, and **speaks a cue** as each rep ends. The video never leaves the device.
-- Rep counting is a hysteresis state machine over One Euro–filtered joint angles, with per-rep tempo, bar path and centimetre estimates from the lifter's height; uploaded clips slow down to the model's speed so slower devices never skip a rep.
-- **18 unit tests** on synthetic skeletons with known answers, plus **Playwright** tests that run the real model in headless Chromium via upload and a fake camera; an installable **PWA** on Vercel.
+- Runs entirely in the browser: **MediaPipe** pose tracking on the phone's GPU feeds a **TypeScript** analyzer that **recognises 6 exercises from the first rep**, checks every rep (depth, lockout, knees caving in, hips rising first) and **speaks the fix** as the rep ends. The video never leaves the device.
+- **Bar speed in m/s from the camera alone**: says when to stop once speed drops 20% (with a reps-left estimate) and estimates a **1-rep max** from a load-velocity fit. Makes a **shareable highlight clip** with a slow-motion freeze on the rep worth a second look; hands-free voice commands; an AI coach note from **Gemini**.
+- A labelling page, an accuracy eval (rep recall/precision, per-flag F1) and a **PyTorch → ONNX** training pipeline for a learned form model; **68 unit tests** plus **Playwright** tests running the real model in headless Chromium.
 
-`TypeScript` `React` `MediaPipe` `Computer Vision` `WebAssembly` `WebGL` `Vite` `PWA` `Playwright` `Vitest` `Vercel`
+`TypeScript` `React` `MediaPipe` `Computer Vision` `PyTorch` `ONNX` `Gemini API` `WebAssembly` `PWA` `Playwright` `Vercel`
 
 ### 📝 [Minutes — AI Meeting Copilot](https://github.com/Shibin506/minutes-ai)
 *Upload a meeting transcript, get decisions and action items linked to the exact timestamp, then ask questions across all meetings.*
