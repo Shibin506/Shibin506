@@ -72,6 +72,17 @@ Contributor to **[rocketride-org/rocketride-server](https://github.com/rocketrid
 
 `Python` `FastAPI` `PostgreSQL` `Claude API` `Gemini API` `GitHub Apps` `SQLAlchemy` `Docker` `Prometheus` `GitHub Actions`
 
+### 🏋️ [Spotter — Real-Time AI Form Coach](https://github.com/Shibin506/Spotter) &nbsp;·&nbsp; [**Try it live ↗**](https://spotter-gray.vercel.app)
+*Prop your phone up side-on and lift: it counts reps, checks every one, and tells you what to fix, live.*
+
+<a href="https://spotter-gray.vercel.app"><img src="https://github.com/Shibin506/Spotter/raw/main/docs/images/live.png" alt="Spotter live view: rep count, joint angle and skeleton over the video, with feedback on the last rep (sample run on a drawn test mannequin)" width="720"/></a>
+
+- Runs entirely in the browser: **MediaPipe** pose tracking on the phone's GPU (WebAssembly + WebGL) feeds a **TypeScript** analyzer that counts reps, checks squat depth, lockout and torso lean and push-up hip sag, and **speaks a cue** as each rep ends. The video never leaves the device.
+- Rep counting is a hysteresis state machine over One Euro–filtered joint angles, with per-rep tempo, bar path and centimetre estimates from the lifter's height; uploaded clips slow down to the model's speed so slower devices never skip a rep.
+- **18 unit tests** on synthetic skeletons with known answers, plus **Playwright** tests that run the real model in headless Chromium via upload and a fake camera; an installable **PWA** on Vercel.
+
+`TypeScript` `React` `MediaPipe` `Computer Vision` `WebAssembly` `WebGL` `Vite` `PWA` `Playwright` `Vitest` `Vercel`
+
 ### 📝 [Minutes — AI Meeting Copilot](https://github.com/Shibin506/minutes-ai)
 *Upload a meeting transcript, get decisions and action items linked to the exact timestamp, then ask questions across all meetings.*
 
