@@ -83,17 +83,18 @@ Contributor to **[rocketride-org/rocketride-server](https://github.com/rocketrid
 
 `TypeScript` `React` `MediaPipe` `Computer Vision` `PyTorch` `ONNX` `Groq (Llama)` `Serverless` `WebAssembly` `PWA` `Playwright` `Vercel`
 
-### 📝 [Minutes — AI Meeting Copilot](https://github.com/Shibin506/minutes-ai)
-*Upload a meeting transcript, get decisions and action items linked to the exact timestamp, then ask questions across all meetings.*
+### 📝 [Minutes — AI Meeting Copilot](https://github.com/Shibin506/minutes-ai) &nbsp;·&nbsp; [**Try it live ↗**](https://minutes-ai-liard.vercel.app)
+*Notes linked to the exact moment, cited answers across every meeting, a timeline of what changed, and live transcription.*
 
-<a href="https://youtu.be/X2rIOmC_pgo"><img src="https://github.com/Shibin506/minutes-ai/raw/main/docs/images/demo-video.png" alt="Watch the 1:45 narrated Minutes demo on YouTube" width="720"/></a>
+<a href="https://minutes-ai-liard.vercel.app"><img src="https://github.com/Shibin506/minutes-ai/raw/main/docs/images/changes.png" alt="Minutes' What changed view: the launch date moved from October 15 to October 29, each step linked to the meeting and second it was said" width="720"/></a>
 
-▶️ **[Watch the 1:45 narrated demo on YouTube](https://youtu.be/X2rIOmC_pgo)**
+▶️ **[Watch the narrated demo]({{VIDEO_URL}})**
 
-- Summary, decisions and action items each link to the transcript timestamp; the model cites segment numbers, so timestamps cannot drift.
-- Streamed answers (server-sent events) with numbered citations, retrieved from an **SQLite FTS5 BM25** index; retrieval scores **hit@3 = 1.00** on a 20-question eval that runs in CI.
+- **Hybrid retrieval**: SQLite **FTS5 BM25** + vector search fused with reciprocal rank fusion, then **re-ranked by an LLM on Groq**; sources carry meeting dates so answers lead with the current plan, streamed with citations over SSE. {{RET_BULLET}}
+- **What changed** tracks decisions across meetings (dates that slipped, prices renegotiated, features cut then revived), each step citing a decision id. **Live mode** transcribes the mic with **Whisper on Groq** and refreshes notes every 30 s.
+- An **MCP server** (6 tools) for Claude, Cursor or any agent; one-click **GitHub/Linear issues, .ics calendar and follow-up email**; {{FAITH_BULLET}} **76 tests**, CI, deployed on **Vercel**.
 
-`Python` `FastAPI` `SQLite FTS5` `Claude API` `Gemini API` `React` `TypeScript` `Docker` `GitHub Actions`
+`Python` `FastAPI` `SQLite FTS5` `Hybrid Search / RAG` `Groq (gpt-oss, Whisper)` `MCP` `React` `TypeScript` `Vercel` `Docker` `GitHub Actions`
 
 ### 🔦 [Lumen — RAG Analytics & Client Integration Platform](https://github.com/Shibin506/rag-analytics-platform)
 *Client apps stream events and documents in; a lake pipeline makes them fast to query; an assistant answers from the documents with citations.*
