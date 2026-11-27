@@ -7,7 +7,7 @@ Hands-on experience in AI/ML, full-stack and cloud backend engineering, from shi
 </p>
 
 <p align="center">
-AI/ML &amp; Software Engineer Intern @ <b>LinkedIn</b> &nbsp;·&nbsp; ex-Software Engineer @ <b>Accenture</b> (3.5 yrs) &nbsp;·&nbsp; M.S. Applied Data Intelligence @ <b>San José State University</b> (Dec 2026) &nbsp;·&nbsp; San Francisco Bay Area, CA
+AI/ML &amp; Software Engineer Intern @ <b>LinkedIn</b> &nbsp;·&nbsp; ex-Software Engineer @ <b>Accenture</b> &nbsp;·&nbsp; M.S. Applied Data Intelligence @ <b>San José State University</b> (Dec 2026) &nbsp;·&nbsp; San Francisco Bay Area, CA
 </p>
 
 <p align="center">
